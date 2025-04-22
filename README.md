@@ -27,3 +27,9 @@ This project demonstrates a smart home automation system that allows remote moni
 1. Clone this repository:
    ```bash
    git clone https://github.com/nikita-sinhaa/IoT-Smart-Home-Automation.git
+
+---
+
+## 👩‍💻 Author
+**Nikita Sinha** -🔧 Firmware & Embedded Systems | M.S. Electrical and Computer Engineering  
+
